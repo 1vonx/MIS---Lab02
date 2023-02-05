@@ -1,6 +1,6 @@
 # lab_02
 
-A new Flutter project.
+Mobile Information Systems - Lab 2
 
 ## Getting Started
 
