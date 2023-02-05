@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import './models/question.dart';
-import './widget/clothing_answer.dart';
-import './widget/clothing_question.dart';
+import './model/question.dart';
+import './widgets/clothing_answer.dart';
+import './widgets/clothing_question.dart';
 
 void main() => runApp(MyApp());
 
